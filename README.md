@@ -1,17 +1,17 @@
-#InstaRocket
+# InstaRocket
 An application like Instagram as part of a bootcamp provided by Rocketseat.
 
-##Table of Content
+## Table of Content
 * [General info](#general-info)
 * [Technologies and Dependencies](#technologies-&-dependencies)
 * [Author](#author)
 * [License and copyright](#license-and-copyright)
 * [Acknowledgements](#acknowledgements)
 
-###General info
+### General info
 Application using MongoDB for database, Node.js on the server side and ReactJs on the frontend. Also, it was used Socket.IO for real-time communication.
 
-###Technologies and dependencies
+### Technologies and dependencies
 * CORS - It allows communication between different domains and used for any http request method;
 * Express - Node.js library;
 * Mongoose - ODM library for MongoDB and Node.js;
@@ -19,7 +19,7 @@ Application using MongoDB for database, Node.js on the server side and ReactJs o
 * Sharp - For high performance Node.js image processing;
 * Socket.IO - Library for real-time communication;
 
-###Setup
+### Setup
 **_For development_**
  - Backend
     - npm run dev
@@ -28,11 +28,11 @@ Application using MongoDB for database, Node.js on the server side and ReactJs o
 **_For deployment_**
 - The application has not been deployed yet.
 
-####Author
+#### Author
 Breno Ribeiro do Val - Following the instructions provided.
 
-####License and copyright
+#### License and copyright
 There is no license and copyright.
 
-####Acknowledgments
+#### Acknowledgments
 Thanks to Diego Fernandes from Rocketseat who provided this bootcamp.
