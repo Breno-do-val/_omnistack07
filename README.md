@@ -3,7 +3,7 @@ An application like Instagram as part of a bootcamp provided by Rocketseat.
 
 ## Table of Content
 * [General info](#general-info)
-* [Technologies and Dependencies](#technologies-&-dependencies)
+* [Technologies and Dependencies](#technologies-and-dependencies)
 * [Author](#author)
 * [License and copyright](#license-and-copyright)
 * [Acknowledgements](#acknowledgements)
@@ -25,6 +25,7 @@ Application using MongoDB for database, Node.js on the server side and ReactJs o
     - npm run dev
  - Frontend
     - npm start
+    
 **_For deployment_**
 - The application has not been deployed yet.
 
